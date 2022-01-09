@@ -19,7 +19,7 @@ for indice in range(0, len(equipamentos)):
   print('Serial........: ', seriais[indice])
   print('Departamento..: ', departamentos[indice])
 # DELETA TODOS OS ELEMENTOS COM O MESMO INDICE NAS LISTAS
-serial=int(input('\nDigite o serial do equipamento que será excluido: '))
+serial = int(input('\nDigite o serial do equipamento que será excluido: '))
 for indice in range(0, len(departamentos)):
   if seriais[indice]==serial:
     del departamentos[indice]
