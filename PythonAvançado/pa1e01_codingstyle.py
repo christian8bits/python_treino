@@ -8,6 +8,7 @@ class MinhaClasse():
   def __init__(self):
     self.descricao = 'Minha Classe'
 
+
   # dentro de uma classe, usamos uma linha em branco entre métodos
   def meu_metodo(self, arg1):
     pass
