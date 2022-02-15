@@ -1,6 +1,5 @@
 # Usando docstrings para documentar métodos
 
-
 def minha_funcao(arg1, arg2=None):
     """Minha função que faz um print
 
