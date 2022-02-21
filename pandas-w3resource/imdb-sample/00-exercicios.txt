@@ -1,39 +1,22 @@
+1. obter as colunas do DataFrame (movies_metadata.csv ).
+2. obter as informações do DataFrame (movies_metadata.csv ), incluindo tipos de dados e uso de memória. 
+3. obter os detalhes do terceiro filme do DataFrame (movies_metadata.csv). 
+4. contar o número de linhas e colunas do DataFrame (movies_metadata.csv). 
+5. obter os detalhes do título das colunas e gêneros do DataFrame. 
+6. obter os detalhes do filme com o título 'Grumpier Old Men'. 
+7. obter os detalhes do quinto filme do DataFrame. 
+8. criar um DataFrame menor com um subconjunto de todos os recursos. 
+9. exibir as primeiras 10 linhas do DataFrame. 
+10. classificar o DataFrame com base em release_date. 
+11. acessar esses filmes, lançados após 01-01-1995. Vá para o editor
+12. classificar os filmes em tempo de execução em ordem decrescente. 
+13. obter os filmes cuja receita é superior a 2 milhões e gastou menos de 1 milhão. 
+14. obter o tempo de execução mais longo e o mais curto. 
+15. calcular o número de votos obtidos pelo filme 70%. 
+16. exibir os filmes (title, runtime) com mais de 30 minutos e menos de 360 ​​minutos. 
+17. exibir os filmes (title, number of votes)  que receberam o número especificado de votos. 
+
 Requisitos: Pandas
 
 Tabela de amostra (baseada no IMDb - movies csv) com 50 linhas:
 movies_metadata.csv  
-
-1. Escreva um programa Python Pandas para obter as colunas do DataFrame (movies_metadata.csv ).
-
-2. Escreva um programa Pandas para obter as informações do DataFrame (movies_metadata.csv ), incluindo tipos de dados e uso de memória. 
- 
-3. Escreva um programa Pandas para obter os detalhes do terceiro filme do DataFrame (movies_metadata.csv). 
- 
-4. Escreva um programa Pandas para contar o número de linhas e colunas do DataFrame (movies_metadata.csv). 
- 
-5. Escreva um programa Pandas para obter os detalhes do título das colunas e gêneros do DataFrame. 
- 
-6. Escreva um programa Pandas para obter os detalhes do filme com o título 'Grumpier Old Men'. 
- 
-7. Escreva um programa Pandas para obter os detalhes do quinto filme do DataFrame. 
- 
-8. Escreva um programa Pandas para criar um DataFrame menor com um subconjunto de todos os recursos. 
- 
-9. Escreva um programa Pandas para exibir as primeiras 10 linhas do DataFrame. 
- 
-10. Escreva um programa Pandas para classificar o DataFrame com base em release_date. 
- 
-11. Escreva um programa Pandas para acessar esses filmes, lançados após 01-01-1995. Vá para o editor
- 
-12. Escreva um programa Pandas para classificar os filmes em tempo de execução em ordem decrescente. 
- 
-13. Escreva um programa Pandas para obter os filmes cuja receita é superior a 2 milhões e gastou menos de 1 milhão. 
- 
-14. Escreva um programa Pandas para obter o tempo de execução mais longo e o mais curto. 
- 
-15. Escreva um programa Pandas para calcular o número de votos obtidos pelo filme 70%. 
- 
-16. Escreva um programa Pandas para exibir os filmes (title, runtime) com mais de 30 minutos e menos de 360 ​​minutos. 
- 
-17. Escreva um programa Pandas para exibir os filmes (title, number of votes)  que receberam o número especificado de votos. 
-
