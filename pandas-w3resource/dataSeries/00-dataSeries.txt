@@ -10,3 +10,6 @@ EXERCICIOS
 
 1. Escreva um programa Pandas para criar e exibir um objeto semelhante a um array unidimensional contendo um array de dados usando o módulo Pandas.
 2. Escreva um programa Pandas para converter uma série do módulo Panda para a lista Python e seu tipo.
+3. Escreva um programa Pandas para somar, subtrair, multiplicar e dividir duas séries Pandas. Série: [2, 4, 6, 8, 10], [1, 3, 5, 7, 9]
+
+
