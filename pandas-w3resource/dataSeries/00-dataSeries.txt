@@ -57,9 +57,10 @@ One Series
 5 Yellow
 dtype: object
 
-11.  Write a Pandas program to sort a given Series. 
-Sample Output:
-Original Data Series: 0 100
+11. Escreva um programa Pandas para ordenar uma determinada série.
+Saída de amostra:
+Série de dados originais:
+0 100
 1 200
 2 python
 3 300.12
@@ -70,4 +71,23 @@ dtype: object
 3 300.12
 4 400
 2 python
+dtype: object
+
+12. Escreva um programa Pandas para adicionar alguns dados a uma série existente.
+Saída de amostra:
+Série de dados originais:
+0 100
+1 200
+2 python
+3 300.12
+4 400
+dtype: object
+Série de dados depois de adicionar alguns dados:
+0 100
+1 200
+2 python
+3 300.12
+4 400
+0 500
+1 php
 dtype: object
