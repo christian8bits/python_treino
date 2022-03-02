@@ -133,4 +133,22 @@ D 4
 E 5
 dtype: int64
 
-
+15. Escreva um programa Pandas para criar a média e o desvio padrão dos dados de uma determinada Série.
+Saída de amostra:
+Série de dados originais:
+0 1
+1 2
+2 3
+3 4
+4 5
+5 6
+6 7
+7 8
+8 9
+9 5
+10 3
+dtype: int64
+Média da Série de Dados:
+4.818181818181818
+Desvio padrão da Série de Dados:
+2.522624895547565
