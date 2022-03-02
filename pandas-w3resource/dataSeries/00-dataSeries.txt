@@ -115,3 +115,22 @@ Subconjunto da Série de Dados acima:
 4 4
 5 5
 dtype: int64
+
+14. Escreva um programa Pandas para alterar a ordem do índice de uma determinada série. 
+Saída de amostra:
+Série de dados originais:
+A 1
+B 2
+C 3
+D 4
+E 5
+dtype: int64
+Série de dados após alterar a ordem do índice:
+B 2
+A 1
+C 3
+D 4
+E 5
+dtype: int64
+
+
