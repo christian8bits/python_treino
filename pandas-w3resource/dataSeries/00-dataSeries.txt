@@ -91,3 +91,27 @@ Série de dados depois de adicionar alguns dados:
 0 500
 1 php
 dtype: object
+
+13. Escreva um programa Pandas para criar um subconjunto de uma determinada série com base no valor e na condição.
+Saída de amostra:
+Série de dados originais:
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+dtype: int64
+Subconjunto da Série de Dados acima:
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+dtype: int64
