@@ -152,3 +152,27 @@ Média da Série de Dados:
 4.818181818181818
 Desvio padrão da Série de Dados:
 2.522624895547565
+
+
+16. Escreva um programa Pandas para obter os itens de uma determinada série que não estão presentes em outra determinada série. 
+Saída de amostra:
+Série Original:
+sr1:
+0 1
+1 2
+2 3
+3 4
+4 5
+dtype: int64
+sr2:
+0 2
+1 4
+2 6
+3 8
+4 10
+dtype: int64
+Itens de sr1 não presentes em sr2:
+0 1
+2 3
+4 5
+dtype: int64
