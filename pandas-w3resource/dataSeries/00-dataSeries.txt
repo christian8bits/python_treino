@@ -176,3 +176,31 @@ Itens de sr1 não presentes em sr2:
 2 3
 4 5
 dtype: int64
+
+17. Escreva um programa Pandas para obter os itens que não são comuns de duas séries dadas.
+Saída de amostra:
+Série Original:
+sr1:
+0 1
+1 2
+2 3
+3 4
+4 5
+dtype: int64
+sr2:
+0 2
+1 4
+2 6
+3 8
+4 10
+dtype: int64
+Itens de uma determinada série não presentes em outra determinada série:
+0 1
+2 3
+4 5
+5 6
+6 8
+7 10
+dtype: int64
+
+
