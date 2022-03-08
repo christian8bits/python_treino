@@ -1,540 +1,387 @@
-1. Write a Python program to print the following string in a specific format (see the output). 
-Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are" Output :
+1. Escreva um programa Python para imprimir a seguinte string em um formato específico (veja a saída).
+Sequência de Amostra: "Brilha, brilha, estrelinha, Como eu me pergunto o que você é! Acima do mundo tão alto, Como um diamante no céu. Brilha, brilha, estrelinha, Como eu me pergunto o que você é" Saída:
 
-Twinkle, twinkle, little star,
-	How I wonder what you are! 
-		Up above the world so high,   		
-		Like a diamond in the sky. 
-Twinkle, twinkle, little star, 
-	How I wonder what you are
-
-
-
-2. Write a Python program to get the Python version you are using. 
+Brilha Brilha Estrelinha,
+  Como eu me pergunto o que você é!
+    Acima do mundo tão alto,
+    Como um diamante no céu.
+Brilha Brilha Estrelinha,
+  Como eu me pergunto o que você é
 
 
-3. Write a Python program to display the current date and time.
-Sample Output :
-Current date and time :
+2. Escreva um programa Python para obter a versão Python que você está usando.
+
+3. Escreva um programa Python para exibir a data e hora atuais.
+Saída de amostra:
+Data e hora atuais:
 2014-07-05 14:34:14
 
+4. Escreva um programa Python que aceite o raio de um círculo do usuário e calcule a área.
+Saída de amostra:
+r = 1,1
+Área = 3,8013271108436504
 
-4. Write a Python program which accepts the radius of a circle from the user and compute the area. 
-Sample Output :
-r = 1.1
-Area = 3.8013271108436504
+5. Escreva um programa Python que aceite o nome e sobrenome do usuário e imprima-os na ordem inversa com um espaço entre eles.
 
+6. Escreva um programa em Python que aceite uma sequência de números separados por vírgulas do usuário e gere uma lista e uma tupla com esses números.
+Dados de amostra: 3, 5, 7, 23
+Saída :
+Lista: ['3', '5', '7', '23']
+Tupla: ('3', '5', '7', '23')
 
-5. Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them. 
+7. Escreva um programa Python para aceitar um nome de arquivo do usuário e imprima a extensão dele.
+Nome do arquivo de exemplo: abc.java
+Saída: java
 
+8. Escreva um programa Python para exibir a primeira e a última cores da lista a seguir.
+color_list = ["Vermelho","Verde","Branco" ,"Preto"]
 
-6. Write a Python program which accepts a sequence of comma-separated numbers from user and generate a list and a tuple with those numbers. 
-Sample data : 3, 5, 7, 23
-Output :
-List : ['3', ' 5', ' 7', ' 23']
-Tuple : ('3', ' 5', ' 7', ' 23')
+9. Escreva um programa em Python para exibir o cronograma de exames. (extrair a data de exam_st_date).
+data_st_exam = (11, 12, 2014)
+Saída da Amostra: O exame começará a partir de: 11/12/2014
 
+10. Escreva um programa Python que aceite um inteiro (n) e calcule o valor de n+nn+nnn.
+O valor da amostra de n é 5
+Resultado esperado: 615
 
-7. Write a Python program to accept a filename from the user and print the extension of that. 
-Sample filename : abc.java
-Output : java
+11. Escreva um programa Python para imprimir os documentos (sintaxe, descrição, etc.) das funções internas do Python.
+Função de exemplo: abs()
+Resultado esperado :
+abs(número) -> número
+Retorna o valor absoluto do argumento.
 
+12. Escreva um programa em Python para imprimir o calendário de um determinado mês e ano.
+Nota: Use o módulo 'calendário'.
 
-8. Write a Python program to display the first and last colors from the following list. 
-color_list = ["Red","Green","White" ,"Black"]
+13. Escreva um programa Python para imprimir o seguinte 'documento aqui'.
+Sequência de amostra:
+uma string que você "não" tem que escapar
+este
+é um ....... multi-linha
+string heredoc --------> exemplo
 
+14. Escreva um programa Python para calcular o número de dias entre duas datas.
+Datas de amostra: (2014, 7, 2), (2014, 7, 11)
+Produção esperada: 9 dias
 
-9. Write a Python program to display the examination schedule. (extract the date from exam_st_date). 
-exam_st_date = (11, 12, 2014)
-Sample Output : The examination will start from : 11 / 12 / 2014
+15. Escreva um programa em Python para obter o volume de uma esfera com raio 6.
 
+16. Escreva um programa em Python para obter a diferença entre um determinado número e 17, se o número for maior que 17, retorne o dobro da diferença absoluta.
 
-10. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn. 
-Sample value of n is 5
-Expected Result : 615
+17. Escreva um programa em Python para testar se um número está dentro de 100 de 1000 ou 2000.
 
+18. Escreva um programa em Python para calcular a soma de três números dados, se os valores forem iguais, então retorne três vezes a soma.
 
-11. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
-Sample function : abs()
-Expected Result :
-abs(number) -> number
-Return the absolute value of the argument.
+19. Escreva um programa em Python para obter uma nova string de uma determinada string onde "Is" foi adicionado à frente. Se a string fornecida já começar com "Is", retorne a string inalterada.
 
+20. Escreva um programa em Python para obter uma string que seja n (inteiro não negativo) cópias de uma determinada string.
 
-12. Write a Python program to print the calendar of a given month and year.
-Note : Use 'calendar' module.
+21. Escreva um programa em Python para descobrir se um determinado número (aceito do usuário) é par ou ímpar, imprima uma mensagem apropriada para o usuário.
 
+22. Escreva um programa em Python para contar o número 4 em uma determinada lista.
 
-13. Write a Python program to print the following 'here document'. 
-Sample string :
-a string that you "don't" have to escape
-This
-is a ....... multi-line
-heredoc string --------> example
+23. Escreva um programa em Python para obter as n (inteiros não negativos) cópias dos 2 primeiros caracteres de uma determinada string. Retorne as n cópias de toda a string se o comprimento for menor que 2.
 
+24. Escreva um programa em Python para testar se uma letra passada é uma vogal ou não.
 
-14. Write a Python program to calculate number of days between two dates.
-Sample dates : (2014, 7, 2), (2014, 7, 11)
-Expected output : 9 days
+25. Escreva um programa Python para verificar se um valor especificado está contido em um grupo de valores.
+Dados de teste :
+3 -> [1, 5, 8, 3] : Verdadeiro
+-1 -> [1, 5, 8, 3] : Falso
 
+26. Escreva um programa em Python para criar um histograma a partir de uma determinada lista de inteiros.
 
-15. Write a Python program to get the volume of a sphere with radius 6.
+27. Escreva um programa Python para concatenar todos os elementos de uma lista em uma string e devolvê-la.
 
+28. Escreva um programa em Python para imprimir todos os números pares de uma determinada lista de números na mesma ordem e interrompa a impressão se houver algum número que venha depois de 237 na sequência.
+Lista de números de amostra:
 
-16. Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference. 
-
-
-17. Write a Python program to test whether a number is within 100 of 1000 or 2000. 
-
-
-18. Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum. 
-
-
-19. Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged. 
-
-
-20. Write a Python program to get a string which is n (non-negative integer) copies of a given string. 
-
-
-21. Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user. 
-
-
-22. Write a Python program to count the number 4 in a given list. 
-
-
-23. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2. 
-
-
-24. Write a Python program to test whether a passed letter is a vowel or not. 
-
-
-25. Write a Python program to check whether a specified value is contained in a group of values. 
-Test Data :
-3 -> [1, 5, 8, 3] : True
--1 -> [1, 5, 8, 3] : False
-
-
-
-26. Write a Python program to create a histogram from a given list of integers. 
-
-
-27. Write a Python program to concatenate all elements in a list into a string and return it. 
-
-
-28. Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. 
-Sample numbers list :
-
-numbers = [    
-    386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345, 
-    399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949, 687, 217, 
-    815, 67, 104, 58, 512, 24, 892, 894, 767, 553, 81, 379, 843, 831, 445, 742, 717, 
-    958,743, 527
+números = [
+    386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345,
+    399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949, 687, 217,
+    815, 67, 104, 58, 512, 24, 892, 894, 767, 553, 81, 379, 843, 831, 445, 742, 717,
+    958.743, 527
     ]
 
+29. Escreva um programa Python para imprimir um conjunto contendo todas as cores de color_list_1 que não estão presentes em color_list_2.
+Dados de teste :
+color_list_1 = set(["Branco", "Preto", "Vermelho"])
+color_list_2 = set(["Vermelho", "Verde"])
+Saída esperada:
+{'Preto branco'}
 
+30. Escreva um programa em Python que aceite a base e a altura de um triângulo e calcule a área.
 
-29. Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2. 
-Test Data :
-color_list_1 = set(["White", "Black", "Red"])
-color_list_2 = set(["Red", "Green"])
-Expected Output :
-{'Black', 'White'}
+31. Escreva um programa em Python para calcular o máximo divisor comum (GCD) de dois inteiros positivos.
 
+32. Escreva um programa em Python para obter o mínimo múltiplo comum (LCM) de dois inteiros positivos.
 
-30. Write a Python program that will accept the base and height of a triangle and compute the area. 
+33. Escreva um programa Python para a soma de três inteiros dados. No entanto, se dois valores forem iguais, a soma será zero.
 
+34. Escreva um programa Python para a soma de dois inteiros dados. No entanto, se a soma estiver entre 15 e 20, retornará 20.
 
-31. Write a Python program to compute the greatest common divisor (GCD) of two positive integers. 
+35. Escreva um programa Python que retornará true se os dois valores inteiros fornecidos forem iguais ou sua soma ou diferença for 5.
 
+36. Escreva um programa Python para adicionar dois objetos se ambos forem do tipo inteiro.
 
-32. Write a Python program to get the least common multiple (LCM) of two positive integers. 
+37. Escreva um programa Python para exibir seus detalhes como nome, idade, endereço em três linhas diferentes.
 
+38. Escreva um programa em Python para resolver (x + y) * (x + y).
+Dados de teste: x = 4, y = 3
+Saída Esperada: (4 + 3) ^ 2) = 49
 
-33. Write a Python program to sum of three given integers. However, if two values are equal sum will be zero. 
+39. Escreva um programa em Python para calcular o valor futuro de um valor principal especificado, taxa de juros e um número de anos.
+Dados de teste: amt = 10.000, int = 3,5, anos = 7
+Saída esperada: 12722,79
 
+40. Escreva um programa em Python para calcular a distância entre os pontos (x1, y1) e (x2, y2).
 
-34. Write a Python program to sum of two given integers. However, if the sum is between 15 to 20 it will return 20. 
+41. Escreva um programa Python para verificar se existe um arquivo.
 
+42. Escreva um programa Python para determinar se um shell Python está sendo executado no modo de 32 bits ou 64 bits no SO.
 
-35. Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5. 
+43. Escreva um programa Python para obter o nome do SO, plataforma e informações de lançamento.
 
+44. Escreva um programa Python para localizar pacotes de sites Python.
 
-36. Write a Python program to add two objects if both objects are an integer type. 
+45. Escreva um programa em Python para chamar um comando externo em Python.
 
 
-37. Write a Python program to display your details like name, age, address in three different lines. 
+46. ​​Escreva um programa python para obter o caminho e o nome do arquivo que está sendo executado no momento.
 
+47. Escreva um programa em Python para descobrir o número de CPUs usando.
 
-38. Write a Python program to solve (x + y) * (x + y). 
-Test Data : x = 4, y = 3
-Expected Output : (4 + 3) ^ 2) = 49
+48. Escreva um programa Python para analisar uma string para Float ou Integer.
 
+49. Escreva um programa Python para listar todos os arquivos em um diretório em Python.
 
-39. Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. 
-Test Data : amt = 10000, int = 3.5, years = 7
-Expected Output : 12722.79
+50. Escreva um programa Python para imprimir sem nova linha ou espaço.
 
+51. Escreva um programa Python para determinar o perfil de programas Python.
+Nota: Um perfil é um conjunto de estatísticas que descreve com que frequência e por quanto tempo várias partes do programa são executadas. Essas estatísticas podem ser formatadas em relatórios por meio do módulo pstats.
 
-40. Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). 
+52. Escreva um programa Python para imprimir em stderr.
 
+53. Escreva um programa Python para acessar variáveis ​​de ambiente.
 
-41. Write a Python program to check whether a file exists. 
+54. Escreva um programa Python para obter o nome de usuário atual
 
+55. Escreva um Python para encontrar endereços IP locais usando o stdlib do Python
 
-42. Write a Python program to determine if a Python shell is executing in 32bit or 64bit mode on OS. 
+56. Escreva um programa Python para obter a altura e a largura da janela do console.
 
+57. Escreva um programa Python para obter o tempo de execução de um método Python.
 
-43. Write a Python program to get OS name, platform and release information. 
+58. Escreva um programa Python para somar os primeiros n inteiros positivos.
 
+59. Escreva um programa Python para converter altura (em pés e polegadas) em centímetros.
 
-44. Write a Python program to locate Python site-packages. 
+60. Escreva um programa em Python para calcular a hipotenusa de um triângulo retângulo.
 
+61. Escreva um programa Python para converter a distância (em pés) em polegadas, jardas e milhas.
 
-45. Write a python program to call an external command in Python. 
+62. Escreva um programa Python para converter todas as unidades de tempo em segundos.
 
+63. Escreva um programa Python para obter um caminho de arquivo absoluto.
 
-46. Write a python program to get the path and name of the file that is currently executing. 
+64. Escreva um programa Python para obter as datas/horas de criação e modificação do arquivo.
 
+65. Escreva um programa Python para converter segundos em dia, hora, minutos e segundos.
 
-47. Write a Python program to find out the number of CPUs using. 
+66. Escreva um programa em Python para calcular o índice de massa corporal.
 
+67. Escreva um programa em Python para converter a pressão em kilopascais para libras por polegada quadrada, um milímetro de mercúrio (mmHg) e pressão atmosférica.
 
-48. Write a Python program to parse a string to Float or Integer. 
+68. Escreva um programa em Python para calcular a soma dos dígitos de um inteiro.
 
+69. Escreva um programa em Python para classificar três inteiros sem usar instruções condicionais e loops.
 
-49. Write a Python program to list all files in a directory in Python. 
+70. Escreva um programa Python para classificar arquivos por data.
 
+71. Escreva um programa Python para obter uma listagem de diretórios, ordenada por data de criação.
 
-50. Write a Python program to print without newline or space. 
+72. Escreva um programa em Python para obter os detalhes do módulo de matemática.
 
+73. Escreva um programa em Python para calcular os pontos médios de uma linha.
 
-51. Write a Python program to determine profiling of Python programs. 
-Note: A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module.
+74. Escreva um programa em Python para fazer o hash de uma palavra.
 
+75. Escreva um programa Python para obter as informações de copyright e escreva as informações de Copyright no código Python.
 
-52. Write a Python program to print to stderr. 
+76. Escreva um programa Python para obter os argumentos da linha de comando (nome do script, o número de argumentos, argumentos) passados ​​para um script.
 
+77. Escreva um programa em Python para testar se o sistema é uma plataforma big-endian ou uma plataforma little-endian.
 
-53. Write a python program to access environment variables. 
+78. Escreva um programa Python para encontrar os módulos integrados disponíveis.
 
+79. Escreva um programa Python para obter o tamanho de um objeto em bytes.
 
-54. Write a Python program to get the current username 
+80. Escreva um programa Python para obter o valor atual do limite de recursão.
 
+81. Escreva um programa Python para concatenar N strings.
 
-55. Write a Python to find local IP addresses using Python's stdlib 
+82. Escreva um programa em Python para calcular a soma de todos os itens de um contêiner (tupla, lista, conjunto, dicionário).
 
+83. Escreva um programa em Python para testar se todos os números de uma lista são maiores que um certo número.
 
-56. Write a Python program to get height and width of the console window. 
+84. Escreva um programa Python para contar o número de ocorrências de um caractere específico em uma string.
 
+85. Escreva um programa Python para verificar se um caminho de arquivo é um arquivo ou um diretório.
 
-57. Write a Python program to get execution time for a Python method. 
+86. Escreva um programa Python para obter o valor ASCII de um caractere.
 
+87. Escreva um programa Python para obter o tamanho de um arquivo.
 
-58. Write a Python program to sum of the first n positive integers. 
+88. Dadas as variáveis ​​x=30 ey=20, escreva um programa Python para imprimir "30+20=50".
 
+89. Escreva um programa Python para executar uma ação se uma condição for verdadeira.
+Dado um nome de variável, se o valor for 1, exiba a string "Primeiro dia de um mês!" e não faça nada se o valor não for igual.
 
-59. Write a Python program to convert height (in feet and inches) to centimeters. 
+90. Escreva um programa Python para criar uma cópia de seu próprio código-fonte.
 
+91. Escreva um programa Python para trocar duas variáveis.
 
-60. Write a Python program to calculate the hypotenuse of a right angled triangle. 
+92. Escreva um programa Python para definir uma string contendo caracteres especiais em várias formas.
 
+93. Escreva um programa Python para obter a Identidade, o Tipo e o Valor de um objeto.
 
-61. Write a Python program to convert the distance (in feet) to inches, yards, and miles. 
+94. Escreva um programa Python para converter uma string de bytes em uma lista de inteiros.
 
+95. Escreva um programa Python para verificar se uma string é numérica.
 
-62. Write a Python program to convert all units of time into seconds. 
+96. Escreva um programa Python para imprimir a pilha de chamadas atual.
 
+97. Escreva um programa Python para listar as variáveis ​​especiais usadas na linguagem.
 
-63. Write a Python program to get an absolute file path. 
+98. Escreva um programa em Python para obter a hora do sistema.
 
+Nota: A hora do sistema é importante para depuração, informações de rede, sementes de números aleatórios ou algo tão simples quanto o desempenho do programa.
 
-64. Write a Python program to get file creation and modification date/times. 
+99. Escreva um programa Python para limpar a tela ou o terminal.
 
+100. Escreva um programa Python para obter o nome do host no qual a rotina está sendo executada.
 
-65. Write a Python program to convert seconds to day, hour, minutes and seconds. 
+101. Escreva um programa Python para acessar e imprimir o conteúdo de uma URL no console.
 
+102. Escreva um programa Python para obter a saída do comando do sistema.
 
-66. Write a Python program to calculate body mass index. 
+103. Escreva um programa Python para extrair o nome do arquivo de um determinado caminho.
 
+104. Escreva um programa Python para obter o ID do grupo efetivo, o ID do usuário efetivo, o ID do grupo real, uma lista de IDs de grupo suplementares associados ao processo atual.
+Nota: Disponibilidade: Unix.
 
-67. Write a Python program to convert pressure in kilopascals to pounds per square inch, a millimeter of mercury (mmHg) and atmosphere pressure. 
+105. Escreva um programa Python para obter o ambiente dos usuários.
 
+106. Escreva um programa Python para dividir um caminho no separador de extensão.
 
-68. Write a Python program to calculate the sum of the digits in an integer. 
+107. Escreva um programa Python para recuperar as propriedades do arquivo.
 
+108. Escreva um programa Python para localizar o caminho se refere a um arquivo ou diretório quando você encontrar um nome de caminho.
 
-69. Write a Python program to sort three integers without using conditional statements and loops. 
+109. Escreva um programa em Python para verificar se um número é positivo, negativo ou zero.
 
+110. Escreva um programa em Python para obter números divisíveis por quinze de uma lista usando uma função anônima.
 
-70. Write a Python program to sort files by date. 
+111. Escreva um programa Python para fazer listas de arquivos do diretório atual usando um curinga.
 
+112. Escreva um programa Python para remover o primeiro item de uma lista especificada.
 
-71. Write a Python program to get a directory listing, sorted by creation date. 
+113. Escreva um programa Python para inserir um número, se não for um número gera uma mensagem de erro.
 
+114. Escreva um programa em Python para filtrar os números positivos de uma lista.
 
-72. Write a Python program to get the details of math module. 
+115. Escreva um programa em Python para calcular o produto de uma lista de inteiros (sem usar o laço for).
 
+116. Escreva um programa Python para imprimir caracteres Unicode.
 
-73. Write a Python program to calculate midpoints of a line. 
+117. Escreva um programa em Python para provar que duas variáveis ​​string de mesmo valor apontam para o mesmo local de memória.
 
+118. Escreva um programa Python para criar um bytearray de uma lista.
 
-74. Write a Python program to hash a word. 
+119. Escreva um programa Python para arredondar um número de ponto flutuante para as casas decimais especificadas.
 
+120. Escreva um programa Python para formatar uma string especificada limitando o comprimento de uma string.
 
-75. Write a Python program to get the copyright information and write Copyright information in Python code. 
+121. Escreva um programa Python para determinar se a variável está definida ou não.
 
-
-76. Write a Python program to get the command-line arguments (name of the script, the number of arguments, arguments) passed to a script. 
-
-
-77. Write a Python program to test whether the system is a big-endian platform or little-endian platform. 
-
-
-78. Write a Python program to find the available built-in modules. 
-
-
-79. Write a Python program to get the size of an object in bytes. 
-
-
-80. Write a Python program to get the current value of the recursion limit. 
-
-
-81. Write a Python program to concatenate N strings. 
-
-
-82. Write a Python program to calculate the sum of all items of a container (tuple, list, set, dictionary). 
-
-
-83. Write a Python program to test whether all numbers of a list is greater than a certain number. 
-
-
-84. Write a Python program to count the number occurrence of a specific character in a string. 
-
-
-85. Write a Python program to check whether a file path is a file or a directory. 
-
-
-86. Write a Python program to get the ASCII value of a character. 
-
-
-87. Write a Python program to get the size of a file. 
-
-
-88. Given variables x=30 and y=20, write a Python program to print "30+20=50". 
-
-
-89. Write a Python program to perform an action if a condition is true. 
-Given a variable name, if the value is 1, display the string "First day of a Month!" and do nothing if the value is not equal.
-
-
-90. Write a Python program to create a copy of its own source code. 
-
-
-91. Write a Python program to swap two variables. 
-
-
-92. Write a Python program to define a string containing special characters in various forms. 
-
-
-93. Write a Python program to get the Identity, Type, and Value of an object. 
-
-
-94. Write a Python program to convert a byte string to a list of integers. 
-
-
-95. Write a Python program to check whether a string is numeric. 
-
-
-96. Write a Python program to print the current call stack. 
-
-
-97. Write a Python program to list the special variables used within the language. 
-
-
-98. Write a Python program to get the system time. 
-
-Note : The system time is important for debugging, network information, random number seeds, or something as simple as program performance.
-
-
-99. Write a Python program to clear the screen or terminal. 
-
-
-100. Write a Python program to get the name of the host on which the routine is running. 
-
-
-101. Write a Python program to access and print a URL's content to the console. 
-
-
-102. Write a Python program to get system command output. 
-
-
-103. Write a Python program to extract the filename from a given path. 
-
-
-104. Write a Python program to get the effective group id, effective user id, real group id, a list of supplemental group ids associated with the current process. 
-Note: Availability: Unix.
-
-
-105. Write a Python program to get the users environment. 
-
-
-106. Write a Python program to divide a path on the extension separator. 
-
-
-107. Write a Python program to retrieve file properties. 
-
-
-108. Write a Python program to find path refers to a file or directory when you encounter a path name. 
-
-
-109. Write a Python program to check if a number is positive, negative or zero. 
-
-
-110. Write a Python program to get numbers divisible by fifteen from a list using an anonymous function. 
-
-
-111. Write a Python program to make file lists from current directory using a wildcard. 
-
-
-112. Write a Python program to remove the first item from a specified list. 
-
-
-113. Write a Python program to input a number, if it is not a number generates an error message. 
-
-
-114. Write a Python program to filter the positive numbers from a list. 
-
-
-115. Write a Python program to compute the product of a list of integers (without using for loop). 
-
-
-116. Write a Python program to print Unicode characters. 
-
-
-117. Write a Python program to prove that two string variables of same value point same memory location. 
-
-
-118. Write a Python program to create a bytearray from a list. 
-
-
-119. Write a Python program to round a floating-point number to specified number decimal places. 
-
-
-120. Write a Python program to format a specified string limiting the length of a string. 
-
-
-121. Write a Python program to determine whether variable is defined or not. 
-
-
-122. Write a Python program to empty a variable without destroying it. 
-
-Sample data: n=20
+122. Escreva um programa Python para esvaziar uma variável sem destruí-la.
+Dados de amostra: n=20
 d = {"x":200}
-Expected Output : 0
+Saída esperada: 0
 {}
 
+123. Escreva um programa em Python para determinar os maiores e menores inteiros, longs, floats.
 
+124. Escreva um programa Python para verificar se várias variáveis ​​têm o mesmo valor.
 
-123. Write a Python program to determine the largest and smallest integers, longs, floats. 
+125. Escreva um programa Python para somar todas as contagens em uma coleção.
 
+126. Escreva um programa Python para obter o objeto módulo real para um determinado objeto.
 
-124. Write a Python program to check whether multiple variables have the same value. 
+127. Escreva um programa em Python para verificar se um inteiro cabe em 64 bits.
 
+128. Escreva um programa em Python para verificar se existem letras minúsculas em uma string.
 
-125. Write a Python program to sum of all counts in a collections.
+129. Escreva um programa Python para adicionar zeros à esquerda a uma string.
 
+130. Escreva um programa Python para usar aspas duplas para exibir strings.
 
-126. Write a Python program to get the actual module object for a given object. 
+131. Escreva um programa Python para dividir uma string de comprimento variável em variáveis.
 
+132. Escreva um programa Python para listar o diretório home sem o caminho absoluto.
 
-127. Write a Python program to check whether an integer fits in 64 bits. 
+133. Escreva um programa em Python para calcular o tempo de execução (diferença entre a hora inicial e a hora atual) de um programa.
 
+134. Escreva um programa Python para inserir dois inteiros em uma única linha.
 
-128. Write a Python program to check whether lowercase letters exist in a string. 
+135. Escreva um programa Python para imprimir uma variável sem espaços entre os valores.
+Valor da amostra: x = 30
+Saída esperada: O valor de x é "30"
 
+136. Escreva um programa Python para localizar arquivos e pular diretórios de um determinado diretório.
 
-129. Write a Python program to add leading zeroes to a string. 
+137. Escreva um programa Python para extrair um único par chave-valor de um dicionário em variáveis.
 
+138. Escreva um programa Python para converter true em 1 e false em 0.
 
-130. Write a Python program to use double quotes to display strings. 
+139. Escreva um programa Python para validar um endereço IP.
 
-
-131. Write a Python program to split a variable length string into variables. 
-
-
-132. Write a Python program to list home directory without absolute path. 
-
-
-133. Write a Python program to calculate the time runs (difference between start and current time) of a program. 
-
-
-134. Write a Python program to input two integers in a single line. 
-
-
-135. Write a Python program to print a variable without spaces between values. 
-Sample value : x =30
-Expected output : Value of x is "30"
-
-
-136. Write a Python program to find files and skip directories of a given directory. 
-
-
-137. Write a Python program to extract single key-value pair of a dictionary in variables. 
-
-
-138. Write a Python program to convert true to 1 and false to 0. 
-
-
-139. Write a Python program to valid a IP address. 
-
-
-140. Write a Python program to convert an integer to binary keep leading zeros. 
-Sample data : x=12
-Expected output : 00001100
+140. Escreva um programa em Python para converter um inteiro em binário mantendo zeros à esquerda.
+Dados de amostra: x=12
+Saída esperada: 00001100
 0000001100
 
+141. Escreva um programa Python para converter decimal em hexadecimal.
+Número decimal da amostra: 30, 4
+Saída esperada: 1e, 04
 
-141. Write a python program to convert decimal to hexadecimal. 
-Sample decimal number: 30, 4
-Expected output: 1e, 04
+142. Escreva um programa em Python para verificar se cada sequência consecutiva de zeros é seguida por uma sequência consecutiva de uns de mesmo comprimento em uma determinada string. Retorna Verdadeiro/Falso.
+Sequência original: 01010101
+Verifique se cada sequência consecutiva de zeros é seguida por uma sequência consecutiva de uns na referida string:
+Verdadeiro
+Sequência original: 00
+Verifique se cada sequência consecutiva de zeros é seguida por uma sequência consecutiva de uns na referida string:
+Falso
+Sequência original: 000111000111
+Verifique se cada sequência consecutiva de zeros é seguida por uma sequência consecutiva de uns na referida string:
+Verdadeiro
+Sequência original: 00011100011
+Verifique se cada sequência consecutiva de zeros é seguida por uma sequência consecutiva de uns na referida string:
+Falso
 
+143. Escreva um programa Python para determinar se o shell python está sendo executado no modo de 32 ou 64 bits no sistema operacional.
 
-142. Write a Python program to check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones of same length in a given string. Return True/False. 
-Original sequence: 01010101
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-True
-Original sequence: 00
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-False
-Original sequence: 000111000111
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-True
-Original sequence: 00011100011
-Check if every consecutive sequence of zeroes is followed by a consecutive sequence of ones in the said string:
-False
+144. Escreva um programa em Python para verificar se a variável é um inteiro ou uma string.
 
+145. Escreva um programa Python para testar se uma variável é uma lista ou tupla ou um conjunto.
 
-143. Write a Python program to determine if the python shell is executing in 32bit or 64bit mode on operating system. 
+146. Escreva um programa Python para encontrar a localização das fontes do módulo Python.
 
+147. Escreva uma função Python para verificar se um número é divisível por outro número. Aceite dois valores inteiros do usuário.
 
-144. Write a Python program to check whether variable is integer or string. 
+148. Escreva uma função Python para encontrar os números máximo e mínimo de uma sequência de números.
+Nota: Não use funções integradas.
 
+149. Escreva uma função Python que receba um inteiro positivo e retorne a soma do cubo de todos os inteiros positivos menores que o número especificado.
 
-145. Write a Python program to test if a variable is a list or tuple or a set. 
-
-
-146. Write a Python program to find the location of Python module sources. 
-
-
-147. Write a Python function to check whether a number is divisible by another number. Accept two integers values form the user. 
-
-
-148. Write a Python function to find the maximum and minimum numbers from a sequence of numbers. 
-Note: Do not use built-in functions.
-
-
-149. Write a Python function that takes a positive integer and returns the sum of the cube of all the positive integers smaller than the specified number. 
-
-
-150. Write a Python function to check whether a distinct pair of numbers whose product is odd present in a sequence of integer values. 
-
+150. Escreva uma função Python para verificar se um par distinto de números cujo produto é ímpar está presente em uma sequência de valores inteiros.
