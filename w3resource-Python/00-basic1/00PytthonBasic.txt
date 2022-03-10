@@ -54,12 +54,16 @@ Retorna o valor absoluto do argumento.
 12. Escreva um programa em Python para imprimir o calendário de um determinado mês e ano.
 Nota: Use o módulo 'calendário'.
 
-13. Escreva um programa Python para imprimir o seguinte 'documento aqui'.
-Sequência de amostra:
-uma string que você "não" tem que escapar
-este
-é um ....... multi-linha
-string heredoc --------> exemplo
+13. Escreva um programa Python para imprimir o seguinte documento multilinha:
+Eu amo tudo o que foi
+Tudo o que já não é
+A dor que já me não dói
+A antiga e errônea fé
+O ontem que a dor deixou,
+O que deixou alegria
+Só porque foi, e voou
+E hoje é já outro dia.
+--Fernando Pessoa 
 
 14. Escreva um programa Python para calcular o número de dias entre duas datas.
 Datas de amostra: (2014, 7, 2), (2014, 7, 11)
