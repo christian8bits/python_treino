@@ -42,6 +42,7 @@ Saída da Amostra: O exame começará a partir de: 11/12/2014
 
 10. Escreva um programa Python que aceite um inteiro (n) e calcule o valor de n+nn+nnn.
 O valor da amostra de n é 5
+(Exemplo: 5 + 55 + 555 = 615 )
 Resultado esperado: 615
 
 11. Escreva um programa Python para imprimir os documentos (sintaxe, descrição, etc.) das funções internas do Python.

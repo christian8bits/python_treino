@@ -1,0 +1,5 @@
+valor = input('Entre com varios numeros separados por virgula (,): ')
+list = valor.split(',')
+tuple = tuple(list)
+print(f'Lista: {list}')
+print(f'Tupla: {tuple}')
