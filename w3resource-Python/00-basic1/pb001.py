@@ -23,4 +23,3 @@ Brilha Brilha Estrelinha,
   	Como eu me pergunto o que você é!
 '''    
 print(texto)
-

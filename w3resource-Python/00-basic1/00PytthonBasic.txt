@@ -1,13 +1,11 @@
 1. Escreva um programa Python para imprimir a seguinte string em um formato específico (veja a saída).
 Sequência de Amostra: "Brilha, brilha, estrelinha, Como eu me pergunto o que você é! Acima do mundo tão alto, Como um diamante no céu. Brilha, brilha, estrelinha, Como eu me pergunto o que você é" Saída:
-
 Brilha Brilha Estrelinha,
   Como eu me pergunto o que você é!
     Acima do mundo tão alto,
     Como um diamante no céu.
 Brilha Brilha Estrelinha,
   Como eu me pergunto o que você é
-
 
 2. Escreva um programa Python para obter a versão Python que você está usando.
 
@@ -150,7 +148,6 @@ Saída esperada: 12722,79
 44. Escreva um programa Python para localizar pacotes de sites Python.
 
 45. Escreva um programa em Python para chamar um comando externo em Python.
-
 
 46. ​​Escreva um programa python para obter o caminho e o nome do arquivo que está sendo executado no momento.
 

@@ -1,3 +1,6 @@
+'''
+18. Escreva um programa em Python para calcular a soma de três números dados, se os valores forem iguais, então retorne três vezes a soma.
+'''
 def soma_tres(x, y, z):
   soma = x + y + z
   if x == y == z:

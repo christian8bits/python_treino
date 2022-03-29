@@ -1,3 +1,6 @@
+'''
+27. Escreva um programa Python para concatenar todos os elementos de uma lista em uma string e devolvê-la.
+'''
 def concatenar_lista(list):
   resultado = ''
   for e in list:

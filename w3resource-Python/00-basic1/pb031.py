@@ -1,3 +1,6 @@
+'''
+31. Escreva um programa em Python para calcular o máximo divisor comum (GCD) de dois inteiros positivos.
+'''
 def gcd(x, y):
   gcd = 1
   if x % y == 0:

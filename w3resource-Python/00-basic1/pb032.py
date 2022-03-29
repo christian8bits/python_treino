@@ -1,3 +1,6 @@
+'''
+32. Escreva um programa em Python para obter o mínimo múltiplo comum (LCM) de dois inteiros positivos.
+'''
 def lcm(x, y):
   if x > y:
     z = x
