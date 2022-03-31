@@ -1,0 +1,11 @@
+idade = 0
+cont = 0
+media = 0
+while idade>=0:
+    idade = int(input())
+    if(idade>=0):
+        media = media+idade
+        cont = cont+1
+
+media = media/cont
+print("%.2f" %media)

@@ -1,0 +1,27 @@
+n = 1
+empate  = 0
+inter   = 0
+gremio  = 0
+grenais = 0
+while n!=2:
+    valor = input().split()
+    Int = int(valor[0])
+    Gre = int(valor[1])
+    if Int>Gre:
+        inter = inter+1
+    if Gre>Int:
+        gremio = gremio+1
+    if Int==Gre:
+        empate = empate+1
+    n=int(input("Novo grenal (1-sim 2-nao)\n"))
+    grenais = grenais+1
+
+print("%d grenais" %grenais)
+print("Inter:%d" %inter)
+print("Gremio:%d" %gremio)
+print("Empates:%d" %empate)
+if inter>gremio:
+    print("Inter venceu mais")
+else:
+    print("Gremio venceu mais")
+

@@ -1,0 +1,7 @@
+numerador = 1
+denominador = 1
+s = 0
+while denominador <=100:
+    s = s + (numerador/denominador)
+    denominador = denominador + 1
+print("%.2f" %s)

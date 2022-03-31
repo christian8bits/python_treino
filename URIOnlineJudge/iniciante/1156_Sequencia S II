@@ -1,0 +1,10 @@
+numerador = 1
+denominador = 1
+s = 0
+while numerador <= 39:
+    s = s + (numerador / denominador)
+
+    denominador = denominador * 2
+    numerador = numerador+2
+
+print("%.2f" %s)
