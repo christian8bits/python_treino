@@ -1,0 +1,13 @@
+'''
+53. Escreva um programa Python para acessar variáveis ​​de ambiente.
+'''
+import os
+# Access all environment variables 
+print('*----------------------------------*')
+print(os.environ)
+print('*----------------------------------*')
+# Access a particular environment variable 
+print(os.environ['HOME'])
+print('*----------------------------------*')
+print(os.environ['PATH'])
+print('*----------------------------------*')
