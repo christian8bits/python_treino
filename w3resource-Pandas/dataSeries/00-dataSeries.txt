@@ -1,11 +1,3 @@
-Uma série é uma espécie de arranjo unidimensional, como uma lista, mas possui algumas características diferentes.
-Uma série tem 4 partes importantes:
-    Os elementos em si
-    O índice que contém a referência para acessar os elementos
-    O tipo dos elementos 
-    Um nome
-
-
 EXERCICIOS
 
 1. Escreva um programa Pandas para criar e exibir um objeto semelhante a um array unidimensional contendo um array de dados usando o módulo Pandas.
