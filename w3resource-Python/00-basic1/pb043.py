@@ -1,5 +1,6 @@
 '''
-43. Escreva um programa Python para obter o nome do SO, plataforma e informações de lançamento.
+43. Escreva um programa Python para obter o nome do SO, plataforma e 
+informações de lançamento.
 '''
 import os
 import sys

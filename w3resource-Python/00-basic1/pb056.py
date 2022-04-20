@@ -1,5 +1,6 @@
 '''
-56. Escreva um programa Python para obter a altura e a largura da janela do console.
+56. Escreva um programa Python para obter a altura e a largura da janela 
+do console.
 '''
 def terminal_size():
     import fcntl, termios, struct

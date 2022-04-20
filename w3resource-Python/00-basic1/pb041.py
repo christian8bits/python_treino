@@ -1,6 +1,4 @@
-'''
-41. Escreva um programa Python para verificar se existe um arquivo.
-'''
+# 41. Escreva um programa Python para verificar se existe um arquivo.
 import os.path
 # Solucao 1
 print(os.path.isfile('main.txt'))

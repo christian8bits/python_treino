@@ -1,5 +1,6 @@
 '''
-35. Escreva um programa Python que retornará true se os dois valores inteiros fornecidos forem iguais ou sua soma ou diferença for 5.
+35. Escreva um programa Python que retornará true se os dois valores 
+inteiros fornecidos forem iguais ou sua soma ou diferença for 5.
 '''
 def igual_diferenca5(x, y):
   if x==y or abs(x-y)==5 or (x+y)==5:

@@ -1,5 +1,6 @@
 '''
-36. Escreva um programa Python para adicionar dois objetos se ambos forem do tipo inteiro.
+36. Escreva um programa Python para adicionar dois objetos 
+se ambos forem do tipo inteiro.
 '''
 def add_numbers(a, b):
    if not (isinstance(a, int) and isinstance(b, int)):

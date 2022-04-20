@@ -1,6 +1,4 @@
-'''
-54. Escreva um programa Python para obter o nome de usuário atual
-'''
+# 55. Escreva um Python para encontrar endereços IP locais usando o stdlib do Python
 import socket
 print([l for l in ([ip for ip in socket.gethostbyname_ex(socket.gethostname())[2] 
 if not ip.startswith("127.")][:1], [[(s.connect(('8.8.8.8', 53)), 

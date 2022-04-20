@@ -1,5 +1,6 @@
 '''
-5. Escreva um programa Python que aceite o nome e sobrenome do usuário e imprima-os na ordem inversa com um espaço entre eles.
+5. Escreva um programa Python que aceite o nome e sobrenome 
+do usuário e imprima-os na ordem inversa com um espaço entre eles.
 '''
 pnome = input('Entre com o seu primeiro nome: ')
 unome = input('Entre com o seu ultimo nome: ')

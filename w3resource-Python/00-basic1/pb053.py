@@ -1,6 +1,4 @@
-'''
-53. Escreva um programa Python para acessar variáveis ​​de ambiente.
-'''
+# 53. Escreva um programa Python para acessar variáveis ​​de ambiente.
 import os
 # Access all environment variables 
 print('*----------------------------------*')

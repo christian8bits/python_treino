@@ -1,5 +1,6 @@
 '''
-59. Escreva um programa Python para converter altura (em pés e polegadas) em centímetros.
+59. Escreva um programa Python para converter altura (em pés e polegadas) 
+em centímetros.
 '''
 print("Entre com sua altura: ")
 h_ft = int(input("Digite o tamanho em pés: "))

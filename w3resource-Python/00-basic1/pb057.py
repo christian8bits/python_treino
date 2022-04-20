@@ -1,5 +1,6 @@
 '''
-57. Escreva um programa Python para obter o tempo de execução de um método Python.
+57. Escreva um programa Python para obter o tempo de execução 
+de um método Python.
 '''
 import time
 def soma_n_numeros(n):

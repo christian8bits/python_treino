@@ -1,5 +1,6 @@
 '''
-25. Escreva um programa Python para verificar se um valor especificado está contido em um grupo de valores.
+25. Escreva um programa Python para verificar se um 
+valor especificado está contido em um grupo de valores.
 Dados de teste :
 3 -> [1, 5, 8, 3] : Verdadeiro
 -1 -> [1, 5, 8, 3] : Falso

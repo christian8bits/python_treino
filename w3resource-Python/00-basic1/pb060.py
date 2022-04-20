@@ -1,6 +1,4 @@
-'''
-60. Escreva um programa em Python para calcular a hipotenusa de um triângulo retângulo.
-'''
+# 60. Escreva um programa em Python para calcular a hipotenusa de um triângulo retângulo.
 from math import sqrt
 print("Entre com os lados de um triângulo retângulo:")
 a = float(input("lado a: "))

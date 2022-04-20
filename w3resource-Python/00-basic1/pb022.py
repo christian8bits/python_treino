@@ -1,6 +1,4 @@
-'''
-22. Escreva um programa em Python para contar o número 4 em uma determinada lista.
-'''
+# 22. Escreva um programa em Python para contar o número 4 em uma determinada lista.
 def contar4_lista(lista):
   contador = 0
   for n in lista:

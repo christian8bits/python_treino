@@ -1,6 +1,6 @@
 '''
-40. Escreva um programa em Python para calcular a distância entre os pontos (x1, y1) e (x2, y2).
-
+40. Escreva um programa em Python para calcular a 
+distância entre os pontos (x1, y1) e (x2, y2).
 '''
 import math
 p1 = [4, 0]

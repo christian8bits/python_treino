@@ -1,5 +1,6 @@
 '''
-20. Escreva um programa em Python para obter uma string que seja n (inteiro não negativo) cópias de uma determinada string.
+20. Escreva um programa em Python para obter uma string que 
+seja n (inteiro não negativo) cópias de uma determinada string.
 '''
 def larger_string(str, n):
    result = ""

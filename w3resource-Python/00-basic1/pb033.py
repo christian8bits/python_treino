@@ -1,5 +1,6 @@
 '''
-33. Escreva um programa Python para a soma de três inteiros dados. No entanto, se dois valores forem iguais, a soma será zero.
+33. Escreva um programa Python para a soma de três inteiros dados. 
+No entanto, se dois valores forem iguais, a soma será zero.
 '''
 def soma(x, y, z):
   if x==y or y==z or x==z:

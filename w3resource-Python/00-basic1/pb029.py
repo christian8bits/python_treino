@@ -1,5 +1,7 @@
 '''
-29. Escreva um programa Python para imprimir um conjunto contendo todas as cores de color_list_1 que não estão presentes em color_list_2.
+29. Escreva um programa Python para imprimir um conjunto contendo todas as 
+cores de color_list_1 que não estão presentes em color_list_2.
+
 Dados de teste :
 color_list_1 = set(["Branco", "Preto", "Vermelho"])
 color_list_2 = set(["Vermelho", "Verde"])
