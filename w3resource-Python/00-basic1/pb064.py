@@ -1,6 +1,5 @@
 '''
-64. Escreva um programa Python para obter as datas/horas 
-de criação e modificação do arquivo.
+64. Escreva um programa Python para obter as datas/horas de criação e modificação do arquivo.
 '''
 import os.path, time
 print("Ultima modificação: %s" % time.ctime(os.path.getmtime("00PytthonBasic.txt")))
