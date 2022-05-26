@@ -1,3 +1,4 @@
+#  Escreva um programa Python para converter o objeto Python em dados JSON.
 import json
 
 python_obj = {

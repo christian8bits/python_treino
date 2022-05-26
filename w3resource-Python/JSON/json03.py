@@ -1,3 +1,8 @@
+''' 
+Escreva um programa Python para converter objetos 
+Python em strings JSON. Imprima todos os valores. 
+'''
+
 import json
 python_dict =  {"name": "David", "age": 6, "class":"I"}
 python_list =  ["Red", "Green", "Black"]

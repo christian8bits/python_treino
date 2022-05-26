@@ -1,3 +1,4 @@
+# Escreva um programa Python para converter dados JSON em objeto Python. 
 import json
 json_obj = '{ "Nome": "David", "Class":"I", "Idade":19}'
 python_obj = json.loads(json_obj)
