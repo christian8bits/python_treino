@@ -1,0 +1,103 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN210901441BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao remetente",
+                    "dtHrCriado": "2022-05-12T16:04:14",
+                    "tipo": "23",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao remetente",
+                    "dtHrCriado": "2022-05-12T13:58:19",
+                    "tipo": "09",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMPOS ELISEOS",
+                            "cep": "01202970",
+                            "cidade": "SAO PAULO",
+                            "logradouro": "ALAMEDA BARAO DE LIMEIRA",
+                            "numero": "871",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - endereço incorreto",
+                    "detalhe": "O número indicado para entrega é inexistente. Objeto será devolvido ao remetente",
+                    "dtHrCriado": "2022-05-02T12:20:36",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "PONTA GROSSA",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/consultar-pacote-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-02T10:59:06",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "84017970",
+                            "cidade": "PONTA GROSSA",
+                            "logradouro": "RUA AUGUSTO RIBAS",
+                            "numero": "802",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-04-27T15:18:36",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

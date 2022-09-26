@@ -1,0 +1,103 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644114025BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinat\u00e1rio",
+                    "dtHrCriado": "2022-04-06T14:41:52",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "NOVA FRIBURGO",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribui\u00e7\u00e3o"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinat\u00e1rio",
+                    "dtHrCriado": "2022-04-06T10:14:03",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "28610971",
+                            "cidade": "NOVA FRIBURGO",
+                            "logradouro": "RUA DANTE LAGINESTRA",
+                            "numero": "39/43",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribui\u00e7\u00e3o"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto n\u00e3o entregue - carteiro n\u00e3o atendido",
+                    "detalhe": "Por favor, aguarde. Ser\u00e1 realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-04-04T15:18:15",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "NOVA FRIBURGO",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribui\u00e7\u00e3o"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinat\u00e1rio",
+                    "dtHrCriado": "2022-04-04T11:24:58",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "28610971",
+                            "cidade": "NOVA FRIBURGO",
+                            "logradouro": "RUA DANTE LAGINESTRA",
+                            "numero": "39/43",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribui\u00e7\u00e3o"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-03-29T15:11:39",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Ag\u00eancia dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D B\u00c1SICA/IMPRESS N\u00c3O URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

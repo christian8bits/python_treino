@@ -1,0 +1,103 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644114127BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao remetente",
+                    "dtHrCriado": "2022-04-13T13:35:57",
+                    "tipo": "23",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao remetente",
+                    "dtHrCriado": "2022-04-13T11:37:52",
+                    "tipo": "09",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "HIGIENOPOLIS",
+                            "cep": "01239970",
+                            "cidade": "SAO PAULO",
+                            "logradouro": "RUA CORONEL JOSE EUSEBIO",
+                            "numero": "61/67",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDR",
+                    "descricao": "Objeto não entregue - endereço incorreto",
+                    "detalhe": "O endereço indicado para entrega está insuficiente. Objeto será devolvido ao remetente",
+                    "dtHrCriado": "2022-04-06T15:41:00",
+                    "tipo": "07",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "RIO DE JANEIRO",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/devolucao-encomenda-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-04-06T11:31:21",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "TAQUARA",
+                            "cep": "22710970",
+                            "cidade": "RIO DE JANEIRO",
+                            "logradouro": "ESTRADA DOS BANDEIRANTES",
+                            "numero": "665",
+                            "uf": "RJ"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-03-30T13:50:06",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}
