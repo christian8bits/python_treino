@@ -1,0 +1,113 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "OT998421469BR",
+            "dtPrevista": "2022-05-09T20:58:00",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-07T10:25:07",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-07T10:05:43",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "VILA GUILHERMINA",
+                            "cep": "03545970",
+                            "cidade": "SAO PAULO",
+                            "logradouro": "RUA JAGUARIAIVA",
+                            "numero": "476",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-07T03:02:47",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-06T17:54:47",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-06T17:31:56",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "SEDEX",
+                "descricao": "ETIQUETA LOGICA SEDEX OT",
+                "sigla": "OT"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

@@ -1,0 +1,134 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "OT868034358BR",
+            "dtPrevista": "2022-05-06T20:58:00",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-06T12:18:27",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO JOSE DOS CAMPOS",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-06T09:20:05",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "PARQUE INDUSTRIAL",
+                            "cep": "12237970",
+                            "cidade": "SAO JOSE DOS CAMPOS",
+                            "logradouro": "AVENIDA DOUTOR SEBASTIAO HENRIQUE DA CUNHA PONTES",
+                            "numero": "4400",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-06T05:23:49",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO JOSE DOS CAMPOS",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO JOSE DOS CAMPOS",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-05T20:46:28",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO JOSE DOS CAMPOS",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-05T18:02:04",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-05T17:28:16",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "SEDEX",
+                "descricao": "ETIQUETA LOGICA SEDEX OT",
+                "sigla": "OT"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

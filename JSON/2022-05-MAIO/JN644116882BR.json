@@ -1,0 +1,71 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644116882BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-02T10:47:21",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JUIZ DE FORA",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-02T08:47:42",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SANTA TEREZINHA",
+                            "cep": "36045973",
+                            "cidade": "JUIZ DE FORA",
+                            "complemento": "GALPAO 107/109",
+                            "logradouro": "AVENIDA RUI BARBOSA",
+                            "numero": "474",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-26T15:23:09",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

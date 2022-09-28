@@ -1,0 +1,107 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644117004BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-10T14:17:49",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CURITIBA",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-10T09:26:32",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SAO BRAZ",
+                            "cep": "82320970",
+                            "cidade": "CURITIBA",
+                            "logradouro": "AVENIDA VEREADOR TOALDO TULIO",
+                            "numero": "2088",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-07T12:26:18",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CURITIBA",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CURITIBA",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Objeto em correção de rota",
+                    "detalhe": "Corrigimos um equívoco no encaminhamento do seu objeto. Por favor aguarde",
+                    "dtHrCriado": "2022-06-07T11:19:38",
+                    "tipo": "03",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CURITIBA",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "comentario": "80230970 - CTCE CURITIBA",
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-31T13:06:44",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

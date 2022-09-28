@@ -1,0 +1,172 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "OU113879311BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-20T11:52:48",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-20T09:54:45",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "VILA BOCAINA",
+                            "cep": "09310970",
+                            "cidade": "MAUA",
+                            "logradouro": "RUA CAMPOS SALES",
+                            "numero": "501",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-05-20T09:52:24",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-05-20T09:42:58",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-05-19T09:32:39",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-05-19T08:08:00",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-19T01:50:42",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SANTO ANDRE",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "MAUA",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-18T17:50:27",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SANTO ANDRE",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-18T16:34:57",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "SEDEX",
+                "descricao": "ETIQUETA LOGICA SEDEX",
+                "sigla": "OU"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

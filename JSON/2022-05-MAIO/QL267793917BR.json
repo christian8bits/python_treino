@@ -1,0 +1,222 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "QL267793917BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-15T09:58:41",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "Vitoria",
+                            "uf": "ES"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-06-08T13:10:36",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "JARDIM DA PENHA",
+                            "cep": "29060974",
+                            "cidade": "Vitoria",
+                            "complemento": "LOJA 1",
+                            "logradouro": "RUA ARTHUR CZARTORYSKI",
+                            "numero": "455",
+                            "uf": "ES"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-08T10:16:05",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VITORIA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "Vitoria",
+                            "uf": "ES"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-06-07T18:00:37",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VITORIA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-07T09:53:10",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "ITARARE",
+                            "cep": "29045974",
+                            "cidade": "VITORIA",
+                            "logradouro": "AVENIDA LEITAO DA SILVA",
+                            "numero": "1873",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-06-06T17:11:33",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VITORIA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-06T09:58:39",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "ITARARE",
+                            "cep": "29045974",
+                            "cidade": "VITORIA",
+                            "logradouro": "AVENIDA LEITAO DA SILVA",
+                            "numero": "1873",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-02T13:47:37",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SERRA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "VITORIA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-31T23:28:31",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SERRA",
+                            "uf": "ES"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-31T11:07:32",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-30T17:30:52",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "ENCOMENDA PAC",
+                "descricao": "ETIQUETA LOGICA PAC QL",
+                "sigla": "QL"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

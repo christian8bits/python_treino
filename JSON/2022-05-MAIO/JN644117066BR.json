@@ -1,0 +1,92 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644117066BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-10T17:04:11",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "Pelotas",
+                            "uf": "RS"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-06-08T16:03:13",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "Centro",
+                            "cep": "96010971",
+                            "cidade": "Pelotas",
+                            "logradouro": "RUA TIRADENTES",
+                            "numero": "2515",
+                            "uf": "RS"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-08T06:17:38",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "PELOTAS",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "Pelotas",
+                            "uf": "RS"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-01T16:18:35",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

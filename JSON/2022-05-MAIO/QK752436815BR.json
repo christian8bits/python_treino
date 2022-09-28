@@ -1,0 +1,135 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "QK752436815BR",
+            "dtPrevista": "2022-05-09T20:58:00",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-07T12:30:05",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BELO HORIZONTE",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-07T10:29:55",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "UNIVERSITARIO",
+                            "cep": "31255980",
+                            "cidade": "BELO HORIZONTE",
+                            "complemento": "QUILOMETRO 21,5",
+                            "logradouro": "RODOVIA ANEL RODOVIARIO CELSO MELLO AZEVEDO",
+                            "numero": "20901",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-06T13:37:15",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BELO HORIZONTE",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "BELO HORIZONTE",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-03T21:48:13",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "BELO HORIZONTE",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-03T10:40:04",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-02T17:46:44",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "ENCOMENDA PAC",
+                "descricao": "ETIQUETA LOGICA PAC QK",
+                "sigla": "QK"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

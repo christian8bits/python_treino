@@ -1,0 +1,70 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644117035BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-07T11:34:39",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAMPO GRANDE",
+                            "uf": "MS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-07T10:14:20",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "AMAMBAI",
+                            "cep": "79008972",
+                            "cidade": "CAMPO GRANDE",
+                            "logradouro": "RUA VASCONCELOS FERNANDES",
+                            "numero": "164",
+                            "uf": "MS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-01T16:18:35",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

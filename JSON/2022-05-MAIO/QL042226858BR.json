@@ -1,0 +1,168 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "QL042226858BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-30T10:48:43",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JUIZ DE FORA",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-30T09:49:56",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SANTA TEREZINHA",
+                            "cep": "36045973",
+                            "cidade": "JUIZ DE FORA",
+                            "complemento": "GALPAO 107/109",
+                            "logradouro": "AVENIDA RUI BARBOSA",
+                            "numero": "474",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-05-27T10:48:31",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JUIZ DE FORA",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-27T09:41:52",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SANTA TEREZINHA",
+                            "cep": "36045973",
+                            "cidade": "JUIZ DE FORA",
+                            "complemento": "GALPAO 107/109",
+                            "logradouro": "AVENIDA RUI BARBOSA",
+                            "numero": "474",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-21T14:05:31",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CONTAGEM",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "JUIZ DE FORA",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-19T17:01:12",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CONTAGEM",
+                            "uf": "MG"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-19T10:54:38",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-18T16:34:57",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "ENCOMENDA PAC",
+                "descricao": "ETIQUETA LOGICA PAC QL",
+                "sigla": "QL"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

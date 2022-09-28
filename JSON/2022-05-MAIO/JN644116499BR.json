@@ -1,0 +1,158 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644116499BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao remetente",
+                    "dtHrCriado": "2022-06-17T15:26:19",
+                    "tipo": "23",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao remetente",
+                    "dtHrCriado": "2022-06-17T10:51:19",
+                    "tipo": "09",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "HIGIENOPOLIS",
+                            "cep": "01239970",
+                            "cidade": "SAO PAULO",
+                            "logradouro": "RUA CORONEL JOSE EUSEBIO",
+                            "numero": "61/67",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDI",
+                    "descricao": "Prazo de retirada pelo destinatário encerrado",
+                    "detalhe": "Objeto será devolvido ao remetente",
+                    "dtHrCriado": "2022-06-09T08:57:38",
+                    "tipo": "26",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JOINVILLE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/devolucao-encomenda-cor.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-05-19T13:06:33",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "89201970",
+                            "cidade": "JOINVILLE",
+                            "logradouro": "RUA PRINCESA IZABEL",
+                            "numero": "394",
+                            "uf": "SC"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-19T08:01:18",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JOINVILLE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "JOINVILLE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será informada aqui a unidade em que o objeto ficará disponível para retirada",
+                    "dtHrCriado": "2022-05-18T11:01:18",
+                    "tipo": "02",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "JOINVILLE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-18T08:04:16",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "COSTA E SILVA",
+                            "cep": "89218972",
+                            "cidade": "JOINVILLE",
+                            "logradouro": "RUA GUILHERME",
+                            "numero": "1000",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-05-10T12:35:45",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

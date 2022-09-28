@@ -1,0 +1,168 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "QK904689951BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-05-27T15:44:19",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "LAGES",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-05-27T15:43:38",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "88502971",
+                            "cidade": "LAGES",
+                            "logradouro": "AVENIDA BELISARIO RAMOS",
+                            "numero": "4234",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-05-26T11:51:39",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "LAGES",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-05-26T08:20:08",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CENTRO",
+                            "cep": "88502971",
+                            "cidade": "LAGES",
+                            "logradouro": "AVENIDA BELISARIO RAMOS",
+                            "numero": "4234",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-19T08:20:00",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO JOSE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "LAGES",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-18T03:55:42",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO JOSE",
+                            "uf": "SC"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-05-17T10:31:41",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "CAJAMAR",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado após o horário limite da unidade",
+                    "detalhe": "Sujeito a encaminhamento no próximo dia útil",
+                    "dtHrCriado": "2022-05-16T18:33:10",
+                    "tipo": "09",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "ENCOMENDA PAC",
+                "descricao": "ETIQUETA LOGICA PAC QK",
+                "sigla": "QK"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}
