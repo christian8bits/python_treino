@@ -1,0 +1,70 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644117097BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-08T15:48:03",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CASTRO",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade Operacional"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-08T09:17:25",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "Jardim das Araucárias",
+                            "cep": "84174080",
+                            "cidade": "CASTRO",
+                            "logradouro": "R JOSE WALDEMAR IUCKSH, 291",
+                            "uf": "PR"
+                        },
+                        "tipo": "Unidade Operacional"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado após o horário limite da unidade",
+                    "detalhe": "Sujeito a encaminhamento no próximo dia útil",
+                    "dtHrCriado": "2022-06-02T18:35:18",
+                    "tipo": "09",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

@@ -1,0 +1,143 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "OU320257675BR",
+            "dtPrevista": "2022-07-01T20:58:00",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-23T13:35:14",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BARUERI",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-23T10:51:31",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "ALPHAVILLE INDUSTRIAL",
+                            "cep": "06455970",
+                            "cidade": "BARUERI",
+                            "logradouro": "ALAMEDA ARAGUAIA",
+                            "numero": "220",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-06-23T10:43:17",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BARUERI",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "FC",
+                    "descricao": "Área com distribuição sujeita a prazo diferenciado",
+                    "detalhe": "Restrição de entrega domiciliar temporária",
+                    "dtHrCriado": "2022-06-23T09:08:09",
+                    "tipo": "08",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BARUERI",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/agendamento-cor.png"
+                },
+                {
+                    "codigo": "DO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-23T00:04:48",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "BARUERI",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-06-22T16:31:36",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Unidade de Tratamento"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-22T15:33:49",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "F",
+            "tipoPostal": {
+                "categoria": "SEDEX",
+                "descricao": "ETIQUETA LOGICA SEDEX",
+                "sigla": "OU"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

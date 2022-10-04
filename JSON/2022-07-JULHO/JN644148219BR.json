@@ -1,0 +1,125 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644148219BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-08-12T16:07:40",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VILHENA",
+                            "uf": "RO"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-07-27T10:56:34",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "JARDIM AMERICA",
+                            "cep": "76980970",
+                            "cidade": "VILHENA",
+                            "logradouro": "RUA RONY DE CASTRO PEREIRA",
+                            "numero": "3927",
+                            "uf": "RO"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-07-27T09:39:28",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VILHENA",
+                            "uf": "RO"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "VILHENA",
+                            "uf": "RO"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-07-26T11:50:10",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "VILHENA",
+                            "uf": "RO"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-07-26T08:04:28",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "JARDIM AMERICA",
+                            "cep": "76980973",
+                            "cidade": "VILHENA",
+                            "logradouro": "RUA RONY DE CASTRO PEREIRA",
+                            "numero": "3927",
+                            "uf": "RO"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-07-11T12:33:17",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

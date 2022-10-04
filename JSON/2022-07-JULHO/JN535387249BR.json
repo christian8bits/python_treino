@@ -1,0 +1,71 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN535387249BR",
+            "eventos": [
+                {
+                    "codigo": "BDR",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-08-04T15:40:00",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "ALEGRE",
+                            "uf": "ES"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto encaminhado para retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto.",
+                    "dtHrCriado": "2022-08-04T08:34:12",
+                    "tipo": "14",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CELINA",
+                            "cep": "29510980",
+                            "cidade": "ALEGRE",
+                            "logradouro": "AVENIDA SENADOR ATILIO VIVACQUA",
+                            "numero": "S/N",
+                            "uf": "ES"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-07-29T15:47:16",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

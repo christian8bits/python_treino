@@ -1,0 +1,106 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644117295BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-15T13:09:50",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAXIAS DO SUL",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-06-15T08:42:46",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SAO PELEGRINO",
+                            "cep": "95020971",
+                            "cidade": "CAXIAS DO SUL",
+                            "complemento": "TERREO 01",
+                            "logradouro": "RUA IRMA VALIERA",
+                            "numero": "152",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será informada aqui a unidade em que o objeto ficará disponível para retirada",
+                    "dtHrCriado": "2022-06-14T09:55:10",
+                    "tipo": "02",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "CAXIAS DO SUL",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-14T07:32:11",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SAO PELEGRINO",
+                            "cep": "95020971",
+                            "cidade": "CAXIAS DO SUL",
+                            "complemento": "TERREO 01",
+                            "logradouro": "RUA IRMA VALIERA",
+                            "numero": "152",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-07T12:59:02",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

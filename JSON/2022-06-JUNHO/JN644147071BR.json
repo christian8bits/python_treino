@@ -1,0 +1,118 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644147071BR",
+            "eventos": [
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-06-28T17:51:40",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "FORTALEZA",
+                            "uf": "CE"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-28T16:02:55",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMBEBA",
+                            "cep": "60822971",
+                            "cidade": "FORTALEZA",
+                            "logradouro": "AVENIDA OLIVEIRA PAIVA",
+                            "numero": "2800",
+                            "uf": "CE"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Saída para entrega cancelada",
+                    "detalhe": "Será efetuada nova saída para entrega",
+                    "dtHrCriado": "2022-06-28T14:01:06",
+                    "tipo": "47",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "FORTALEZA",
+                            "uf": "CE"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/leitor-codObjeto-cor.png"
+                },
+                {
+                    "codigo": "EST",
+                    "descricao": "Favor desconsiderar a informação anterior",
+                    "detalhe": "Gentileza aguardar a próxima atualização",
+                    "dtHrCriado": "2022-06-28T08:55:23",
+                    "tipo": "05",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "FORTALEZA",
+                            "uf": "CE"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/balao-erro.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-06-28T08:55:22",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMBEBA",
+                            "cep": "60822971",
+                            "cidade": "FORTALEZA",
+                            "logradouro": "AVENIDA OLIVEIRA PAIVA",
+                            "numero": "2800",
+                            "uf": "CE"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-21T15:48:58",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

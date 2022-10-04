@@ -1,0 +1,146 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN644147363BR",
+            "eventos": [
+                {
+                    "codigo": "BDI",
+                    "descricao": "Objeto entregue ao destinatário",
+                    "dtHrCriado": "2022-07-08T11:10:35",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/smile.png"
+                },
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-07-05T13:26:29",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "BURITIS",
+                            "cep": "69309971",
+                            "cidade": "BOA VISTA",
+                            "logradouro": "AVENIDA DOS IMIGRANTES",
+                            "numero": "1612",
+                            "uf": "RR"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-07-05T11:16:45",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será informada aqui a unidade em que o objeto ficará disponível para retirada",
+                    "dtHrCriado": "2022-07-04T17:18:19",
+                    "tipo": "02",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-07-04T10:44:46",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "SAO VICENTE",
+                            "cep": "69303971",
+                            "cidade": "BOA VISTA",
+                            "logradouro": "AVENIDA BENJAMIN CONSTANT",
+                            "numero": "3754",
+                            "uf": "RR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "RO",
+                    "descricao": "Objeto em trânsito - por favor aguarde",
+                    "dtHrCriado": "2022-07-04T08:59:15",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "unidadeDestino": {
+                        "endereco": {
+                            "cidade": "BOA VISTA",
+                            "uf": "RR"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/caminhao-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-06-29T16:34:38",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

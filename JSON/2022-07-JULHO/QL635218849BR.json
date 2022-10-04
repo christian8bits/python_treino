@@ -1,0 +1,17 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "QL635218849BR",
+            "mensagem": "SRO-020: Objeto não encontrado na base de dados dos Correios.",
+            "modalidade": "V",
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}
