@@ -1,0 +1,53 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN535392005BR",
+            "eventos": [
+                {
+                    "codigo": "FC",
+                    "descricao": "Objeto recebido na unidade de distribuição",
+                    "detalhe": "Entrega deverá ocorrer no próximo dia útil",
+                    "dtHrCriado": "2022-10-05T09:36:39",
+                    "tipo": "10",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "MANAUS",
+                            "uf": "AM"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-09-30T12:22:59",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}

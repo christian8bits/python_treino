@@ -1,0 +1,156 @@
+{
+    "objetos": [
+        {
+            "codObjeto": "JN535391416BR",
+            "eventos": [
+                {
+                    "codigo": "LDI",
+                    "descricao": "Objeto aguardando retirada no endereço indicado",
+                    "detalhe": "Para retirá-lo, é preciso informar o código do objeto e apresentar documentação que comprove ser o destinatário ou pessoa por ele oficialmente autorizada.",
+                    "dtHrCriado": "2022-09-29T09:57:51",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMAQUA",
+                            "cep": "91910971",
+                            "cidade": "PORTO ALEGRE",
+                            "logradouro": "RUA CAMAQUA",
+                            "numero": "408",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/cdd-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será informada aqui a unidade em que o objeto ficará disponível para retirada",
+                    "dtHrCriado": "2022-09-28T16:53:31",
+                    "tipo": "02",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "PORTO ALEGRE",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-09-28T12:41:23",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMAQUA",
+                            "cep": "91910971",
+                            "cidade": "PORTO ALEGRE",
+                            "logradouro": "RUA CAMAQUA",
+                            "numero": "408",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-09-23T18:07:06",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "PORTO ALEGRE",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-09-23T10:57:02",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMAQUA",
+                            "cep": "91910971",
+                            "cidade": "PORTO ALEGRE",
+                            "logradouro": "RUA CAMAQUA",
+                            "numero": "408",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "BDE",
+                    "descricao": "Objeto não entregue - carteiro não atendido",
+                    "detalhe": "Por favor, aguarde. Será realizada nova tentativa de entrega",
+                    "dtHrCriado": "2022-09-22T16:18:28",
+                    "tipo": "20",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "PORTO ALEGRE",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/logistica-reversa-cor.png"
+                },
+                {
+                    "codigo": "OEC",
+                    "descricao": "Objeto saiu para entrega ao destinatário",
+                    "dtHrCriado": "2022-09-22T12:59:20",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "bairro": "CAMAQUA",
+                            "cep": "91910971",
+                            "cidade": "PORTO ALEGRE",
+                            "logradouro": "RUA CAMAQUA",
+                            "numero": "408",
+                            "uf": "RS"
+                        },
+                        "tipo": "Unidade de Distribuição"
+                    },
+                    "urlIcone": "/public-resources/img/pre-atendimento-cor.png"
+                },
+                {
+                    "codigo": "PO",
+                    "descricao": "Objeto postado",
+                    "dtHrCriado": "2022-09-16T17:24:05",
+                    "tipo": "01",
+                    "unidade": {
+                        "endereco": {
+                            "cidade": "SAO PAULO",
+                            "uf": "SP"
+                        },
+                        "tipo": "Agência dos Correios"
+                    },
+                    "urlIcone": "/public-resources/img/agencia-cor.png"
+                }
+            ],
+            "modalidade": "V",
+            "tipoPostal": {
+                "categoria": "MALA D BÁSICA/IMPRESS NÃO URG",
+                "descricao": "MALA DIRETA BASICA/IMPRESSO NAO URGENTE",
+                "sigla": "JN"
+            },
+            "habilitaAutoDeclaracao": false,
+            "permiteEncargoImportacao": false,
+            "habilitaPercorridaCarteiro": false,
+            "bloqueioObjeto": false,
+            "possuiLocker": false,
+            "habilitaLocker": false,
+            "habilitaCrowdshipping": false
+        }
+    ],
+    "quantidade": 1,
+    "versao": "2.1.57"
+}
